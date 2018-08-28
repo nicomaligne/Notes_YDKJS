@@ -1,0 +1,1 @@
+Notes reading https://github.com/getify/You-Dont-Know-JS
